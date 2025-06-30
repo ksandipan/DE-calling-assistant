@@ -120,6 +120,7 @@ Area - Action
 - Improve capability to capture local accents, dialects
 - Intelligent logic for human follow up
 - Edge cases (e.g. handling profanity, long answers, odd reactions, silences etc)
+- Secrets need to be managed in secure way
 
 👤 Author
 Sandipan Kumar
