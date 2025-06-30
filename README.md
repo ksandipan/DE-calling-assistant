@@ -81,12 +81,12 @@ pip install -r requirements.txt
 - GPT handles classification reliably
 - Custom prompts and multilingual TTS responses
 
-📝 What's Next
+📝 Known issues + What's Next
 - Add support for other Indian languages
 - Reduce latency
 - Improve transcription, accent
 - Improve capability to capture local accents, dialects
-- Edge cases (e.g. handling profanity, long answers etc)
+- Edge cases (e.g. handling profanity, long answers, silences etc)
 
 👤 Author
 Sandipan Kumar
