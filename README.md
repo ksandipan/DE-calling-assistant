@@ -86,7 +86,8 @@ pip install -r requirements.txt
 - Reduce latency
 - Improve transcription, accent
 - Improve capability to capture local accents, dialects
-- Edge cases (e.g. handling profanity, long answers, silences etc)
+- Intelligent logic for human follow up
+- Edge cases (e.g. handling profanity, long answers, odd reactions, silences etc)
 
 👤 Author
 Sandipan Kumar
